@@ -1,0 +1,1 @@
+This is a classic Space Shooter game developed using the Pygame library in Python. In this game, the player controls a spaceship and must shoot down enemy ships while avoiding collisions. The objective is to score as many points as possible by destroying enemy ships.
